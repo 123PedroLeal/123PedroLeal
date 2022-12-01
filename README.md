@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente estoy trabajando en el desarrollo de una aplicación móvil con Java y desarrollando una pagina web de alquiler de nubes de computo [Alquiler-de-Nubes-de-Computo](https://github.com/123PedroLeal/Alquiler-de-Nubes-de-Computo)
 
-- 🌱 Actualmente estoy aprendiendo sobre **Diseño Web con React JS,JavaScript y SQL y y**
+- 🌱 Actualmente estoy aprendiendo sobre **Diseño Web con React JS,JavaScript y SQL**
 
 - 👨‍💻 Mí Portafolio [https://123pedroleal.github.io/Portafolio-Digital/](https://123pedroleal.github.io/Portafolio-Digital/)
 
