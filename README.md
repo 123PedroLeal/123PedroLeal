@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Me llamo Pedro Leal</h1>
-<h3 align="center">Un Desarrollador Full-Stack Apasionado por aprender constantemente</h3>
+<h3 align="center">Un Desarrollador Front End en busqueda de retos para aprender constantemente</h3>
 
 - 🔭 Actualmente estoy trabajando en el desarrollo de una aplicación móvil con Java y desarrollando una pagina web de alquiler de nubes de computo [Alquiler-de-Nubes-de-Computo](https://github.com/123PedroLeal/Alquiler-de-Nubes-de-Computo)
 
