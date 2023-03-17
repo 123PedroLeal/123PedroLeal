@@ -5,7 +5,7 @@
 
 - 🌱 Actualmente estoy aprendiendo sobre **Diseño Web con React JS,JavaScript y SQL**
 
-- 👨‍💻 Mí Portafolio [https://123pedroleal.github.io/Portafolio-Digital/](https://123pedroleal.github.io/Portafolio-Digital/)
+- 👨‍💻 Mí Portafolio https://123pedroleal.github.io/Web-Portfolio-PedroLeal/
 
 - 💬 Preguntame sobre **Analisis de datos con Excel, Python y sobre desarrollo web**
 
