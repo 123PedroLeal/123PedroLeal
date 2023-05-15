@@ -1,19 +1,18 @@
-<h1 align="center">Hola 👋, Me llamo Pedro Leal</h1>
-<h3 align="center">Un Desarrollador Front End en busqueda de retos para aprender constantemente</h3>
+<h1 align="center">Hello 👋, My name is Pedro Leal</h1>
+<h3 align="center">Front-end Developer in the process of becoming a Full-Stack Developer</h3>
+🔭 I'm currently working on developing a front-end to several aplications made in Motoko for the web 3.0
 
-- 🔭 Actualmente estoy trabajando en el desarrollo de una aplicación móvil con Java y desarrollando una pagina web de alquiler de nubes de computo [Alquiler-de-Nubes-de-Computo](https://github.com/123PedroLeal/Alquiler-de-Nubes-de-Computo)
+🌱 I'm currently learning Back-end Development with Java & Springboot.
 
-- 🌱 Actualmente estoy aprendiendo sobre **Diseño Web con React JS,JavaScript y SQL**
+👨‍💻 My Portfolio: https://portfolio-123pedroleal.netlify.app/
 
-- 👨‍💻 Mí Portafolio https://123pedroleal.github.io/Web-Portfolio-PedroLeal/
+💬 Ask me about: Web Development & Data Analysis.
 
-- 💬 Preguntame sobre **Analisis de datos con Excel, Python y sobre desarrollo web**
+📫 How to reach me: pedropeter93.pl@gmail.com
 
-- 📫 ¿Cómo contactarme? **pedropeter93.pl@gmail.com**
+📄 My CV: - https://1drv.ms/b/s!ArZmv0IiZ04JgYRK-81q-qGVJ4c-xg?e=IkOvOJ
 
-- 📄 Mí Curriculum Vitae [https://1drv.ms/b/s!ArZmv0IiZ04J-0qogcNkEqRseAO4?e=csExJh](https://1drv.ms/b/s!ArZmv0IiZ04J-0qogcNkEqRseAO4?e=csExJh)
-
-- ⚡ Mis Hobbies **A Pesar de ser un apasionado por la tecnología, también tengo un gusto muy grande por las humanidades sobre todo la filosofia, psicología y la poesía, además de que practico clases de salsa y de bachata :)**
+⚡ My Hobbies: Despite being passionate about technology, I also have a great interest in humanities, especially philosophy, psychology, and poetry. Additionally, I practice salsa and bachata dancing :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
