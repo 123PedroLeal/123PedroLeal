@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, My name is Pedro Leal</h1>
 <h3 align="center">Front-end Developer in the process of becoming a Full-Stack Developer</h3>
 
-Click [here](https://github.com/123PedroLeal/123PedroLeal/blob/main/README-ES.md) to read more.
+Sí deseas leer mí perfil en español haz click[aquí](https://github.com/123PedroLeal/123PedroLeal/blob/main/README-ES.md)
 
 🔭 I'm currently working on developing a front-end to several aplications made in Motoko for the web 3.0
 
